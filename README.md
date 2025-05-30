@@ -60,7 +60,7 @@ Final Year Information Technology student at Nanyang Technological University(NT
 ## Featured Projects
 
 ### Analytics Of Supply Chain Data (Data Engineering Intern - Advanced Micro Devices(AMD))
-Developed and deployed a Analytics platform equpped with machine learning and statistical models that assists engineers in analyzing the supply chain and testing data to identify supply chain anomalies and bottlenecks in the manufacturing pipeline. 
+Developed and deployed a Analytics platform equipped with machine learning and statistical models that assists engineers in analyzing the supply chain and testing data to identify anomalies and bottlenecks in the manufacturing pipeline. 
 
 - Designed and implemented automated ETL pipelines on platforms like Snowflake and Databricks, leveraging Python, SQL, and Apache Spark for efficient data extraction, transformation, and integration.
 - Built scalable backend systems and APIs for cloud-based applications on Azure, enabling seamless integration with web applications and dashboards for real-time visualization and monitoring of supply chain data.
