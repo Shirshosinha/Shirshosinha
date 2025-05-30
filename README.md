@@ -77,7 +77,7 @@ Designed and built a modular change point detection system using machine learnin
 ### Pull Request Review System (Code Roast) [IEEE Hackathon X (Jane Street, MSD, TikTok)]
 Developed an end-to-end platform that integrates with GitHub to analyze pull requests using LLMs, generate summaries, docstrings, and code quality feedback. 
 
-[Project Link]('https://github.com/raghavg332/CodeRoast')
+[Project Link](https://github.com/raghavg332/CodeRoast)
 - Used Tree-sitter to parse and isolate code diffs at the function level, enabling context-aware AI review and documentation generation.
 - Implemented a basic Retrieval-Augmented Generation(RAG) pipeline to update project documentation by retrieving relevant context and suggesting AI-generated Markdown additions.
 - Stored all AI-generated insights and PR metadata in Snowflake and built a web dashboard to display PRs, diffs, AI feedback, and documentation updates in one unified UI.
