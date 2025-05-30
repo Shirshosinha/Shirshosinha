@@ -77,6 +77,7 @@ Designed and built a modular change point detection system using machine learnin
 ### Pull Request Review System (Code Roast) [IEEE Hackathon X (Jane Street, MSD, TikTok)]
 Developed an end-to-end platform that integrates with GitHub to analyze pull requests using LLMs, generate summaries, docstrings, and code quality feedback. 
 
+[Project Link]('https://github.com/raghavg332/CodeRoast')
 - Used Tree-sitter to parse and isolate code diffs at the function level, enabling context-aware AI review and documentation generation.
 - Implemented a basic Retrieval-Augmented Generation(RAG) pipeline to update project documentation by retrieving relevant context and suggesting AI-generated Markdown additions.
 - Stored all AI-generated insights and PR metadata in Snowflake and built a web dashboard to display PRs, diffs, AI feedback, and documentation updates in one unified UI.
@@ -84,6 +85,7 @@ Developed an end-to-end platform that integrates with GitHub to analyze pull req
 ### Mock Interview Platform (UHired.ai)
 Designed and implemented an AI-driven mock interview platform (UHired.ai) that simulates personalized technical and behavioral interviews based on user resumes and job roles. 
 
+[Project Link](https://resume-ai-blush.vercel.app/#)
 - Integrated real-time computer vision models (OpenVINO) for eye-contact detection during interviews
 - Engineered a FastAPI-based backend integrated with OpenAI, OpenVINO, YouTube, and ScrapingDog APIs to generate tailored interview questions, assess user responses, and scrape job listings dynamically.
 - Built and managed backend systems handling resume parsing, structured data extraction, session logic, and database interactions (PostgreSQL), with Amazon S3 used for secure file storage.
@@ -91,6 +93,7 @@ Designed and implemented an AI-driven mock interview platform (UHired.ai) that s
 ### AI-Powered Misinformation Detecter (Red-Flag)
 Designed a browser extension to combat misinformation and ensure the integrity of online content leveraging AI technologies to detect deepfake videos, check facts in real-time, analyze sentiment for bias detection, and create a community-driven fact-checking ecosystem where users can contribute insights.
 
+[Project Link](https://github.com/Shirshosinha/RedFlag_SCDS_TechFest)
 - **Deepfake Detection**: Uses the GenConViT model to detect fake videos across major platforms like YouTube, Twitter, and Instagram.
 - **Community Fact-Checking**: Enables user discussions and sentiment-based credibility ratings powered by Snowflake Cortex AI.
 - **Misinformation Verification**: Cross-checks claims with top news sources using Google Search and Llama3.1 to classify accuracy.
